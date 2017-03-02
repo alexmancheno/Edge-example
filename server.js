@@ -1,6 +1,6 @@
 var edge = require('edge');
 
-var dotNetFunction = edge.func('csharp.cs');
+var dotNetFunction = edge.func('TestingEdge/csharp.cs');
 
 var payload = {
     name: "Alex",
@@ -39,3 +39,13 @@ getPerson(payload, function (error, result) {
     if (error) throw error;
     console.log(result);
 });
+
+var info = {
+  name: "Alex",
+  age: 22
+}
+
+dotNetFunction(info, function(error, result) {
+  if (error) throw error;
+  console.log(result);
+})

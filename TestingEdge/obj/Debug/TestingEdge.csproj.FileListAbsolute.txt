@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\C#\TestingEdge\TestingEdge\bin\Debug\TestingEdge.exe.config
+C:\Users\Alex\Desktop\C#\TestingEdge\TestingEdge\bin\Debug\TestingEdge.exe
+C:\Users\Alex\Desktop\C#\TestingEdge\TestingEdge\bin\Debug\TestingEdge.pdb
+C:\Users\Alex\Desktop\C#\TestingEdge\TestingEdge\obj\Debug\TestingEdge.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\C#\TestingEdge\TestingEdge\obj\Debug\TestingEdge.exe
+C:\Users\Alex\Desktop\C#\TestingEdge\TestingEdge\obj\Debug\TestingEdge.pdb
